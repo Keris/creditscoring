@@ -53,7 +53,7 @@ Development and testing additionally require:
 - flake8
 - twine
 
-### Install lastest release version vip pip
+### Install latest release version via pip
 
 ```bash
 pip install creditscoring
