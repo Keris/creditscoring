@@ -1,0 +1,18 @@
+creditscoring: A Credit Scoring Toolkit with Python
+===================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   usage/installation
+   license
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

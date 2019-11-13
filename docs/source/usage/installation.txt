@@ -1,0 +1,38 @@
+# Installation
+
+## Requirements
+
+To use creditscoring you need to install the following packages:
+
+- pandas >= 0.20.1
+- numpy >= 0.7.0
+- matplotlib >= 1.1
+- seaborn >= 0.8.0
+- scipy >= 0.10.0
+- scikit-learn >= 0.18
+
+For development and testing additional packages are required:
+
+- pytest
+- coverage
+- flake8
+- twine
+
+## Install latest release version via pip
+
+```bash
+pip install creditscoring
+```
+
+## Install latest development version
+
+```bash
+pip install git+https://github.com/Keris/creditscoring.git
+```
+
+or
+
+```bash
+git clone https://github.com/Keris/creditscoring.git
+python setup.py install
+```
