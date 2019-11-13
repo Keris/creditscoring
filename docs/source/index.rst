@@ -3,7 +3,7 @@ creditscoring: A Credit Scoring Toolkit with Python
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
    
    usage/installation
    license
