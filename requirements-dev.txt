@@ -1,4 +1,4 @@
 pytest
 coverage
-pre-commit
 flake8
+twine
