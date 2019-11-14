@@ -1,4 +1,5 @@
 # creditscoring
+[![CircleCI](https://circleci.com/gh/Keris/creditscoring/tree/master.svg?style=svg)](https://circleci.com/gh/Keris/creditscoring/tree/master)
 
 creditscoring is a Python package built as a credit scoring toolkit.
 
