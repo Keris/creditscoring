@@ -6,7 +6,11 @@ creditscoring is a Python package built as a credit scoring toolkit.
 <table>
 <tr>
 <td>Supports</td>
-<td>Python 3.6,3.7
+<td>
+  <a href="https://pypi.org/project/credit-scoring-toolkit/">
+  <img src="https://img.shields.io/pypi/pyversions/credit-scoring-toolkit.svg">
+  </a>
+</td>
 </tr>
 <tr>
 <td>Latest Release</td>
