@@ -6,4 +6,4 @@ def incr(x):
 
 
 def test_itworks():
-    assert incr(1) == 3
+    assert incr(1) == 2
