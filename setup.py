@@ -14,7 +14,7 @@ with open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='creditscoring',
+    name='credit-scoring-toolkit',
     description='A Python package designed as a credit scoring toolkit.',
     long_description=long_description,
     long_description_content_type='text/markdown',
