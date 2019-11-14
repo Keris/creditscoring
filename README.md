@@ -56,7 +56,7 @@ Development and testing additionally require:
 ### Install latest release version via pip
 
 ```bash
-pip install creditscoring
+pip install credit-scoring-toolkit
 ```
 
 ### Install latest development version
