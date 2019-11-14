@@ -18,7 +18,7 @@ setup(
     description='A Python package designed as a credit scoring toolkit.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    version='0.0.1',
+    version='0.0.2',
     author='Liqiang Du',
     author_email='dlq137@gmail.com',
     url='https://github.com/Keris/creditscoring',
